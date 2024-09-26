@@ -14,7 +14,7 @@ lab:
 
 1. 在瀏覽器索引標籤中，開啟 Azure 入口網站 (位於 [https://portal.azure.com](https://portal.azure.com?azure-portal=true))，使用與您的 Azure 訂用帳戶相關聯的 Microsoft 帳戶登入。
 1. 在 Azure 入口網站首頁上，瀏覽至頂端搜尋方塊，輸入 [文件智慧服務]****，然後按 **Enter** 鍵。
-1. 在 [文件智慧服務]**** 頁面上，選取 [建立]****。
+1. 在**文件智慧**頁面上，選取**建立文件智慧**。
 1. 在 [建立文件智慧服務]**** 頁面上，使用下列項目來設定您的資源：
     - 訂用帳戶：您的 Azure 訂用帳戶。
     - **資源群組**：選取或建立具有唯一名稱的資源群組，例如 DocIntelligenceResources**。
@@ -81,7 +81,7 @@ lab:
     **Python**：
 
     ```powershell
-    pip install azure-ai-formrecognizer==3.3.0
+    pip install azure-ai-formrecognizer==3.3.3
     ```
 
 ## 新增程式碼以使用 Azure 文件智慧服務
