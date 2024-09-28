@@ -126,9 +126,10 @@ lab:
         - 選取 [繼續]。
     - 選取 [建立專案]**
 
-1. 建立專案之後，請選取 [定型]**** 來定型模型。 使用下列組態：
+1. 建立專案之後，在畫面控制項右上方，選取**定型**以定型模型。 使用下列組態：
     - **模型識別碼**：*提供全域唯一名稱 (在下一個步驟中將需要該模型識別碼名稱)*。 
     - **建置模式**：範本。
+1. 選取 **移至模型**。
 1. 定型可能需要一些時間。 當通知完成時，您會看到通知。
 
 ## 測試您的自訂文件智慧服務模型
@@ -144,7 +145,7 @@ lab:
     **Python**：
 
     ```powershell
-    pip install azure-ai-formrecognizer==3.3.0
+    pip install azure-ai-formrecognizer==3.3.3
     ```
 
 1. 在 Visual Studio Code 的 **Labfiles/02-custom-document-intelligence** 資料夾中，選取您所使用的語言。 使用以下值編輯組態檔 (**appsettings.json** 或 **.env**，具體取決於您的使用語言)：
