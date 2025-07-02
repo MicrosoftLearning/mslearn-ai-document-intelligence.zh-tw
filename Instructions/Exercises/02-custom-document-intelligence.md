@@ -97,11 +97,7 @@ lab:
 1. 在 **Labfiles/02-custom-document-intelligence** 資料夾的終端中，輸入以下命令以執行指令碼：
 
     ```PowerShell
-    $currentdir=(Get-Item .).FullName
-    cd ..
     ./setup.cmd
-    cd $currentdir
-
     ```
 
 1. 當指令碼完成時，請檢閱顯示的輸出。
