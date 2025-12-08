@@ -1,3 +1,1 @@
-**⚠️ This GitHub repo will retire on 30th December 2025.** 
-
 > **注意**：此存放庫正在封存，且不再維護。 請瀏覽[開發 AI 資訊擷取解決方案](https://learn.microsoft.com/training/paths/ai-extract-information/)學習路徑和[相關聯的實驗室存放庫](https://github.com/MicrosoftLearning/mslearn-ai-information-extraction)，或 [Azure AI Foundry 文件](https://learn.microsoft.com/azure/ai-foundry/)
